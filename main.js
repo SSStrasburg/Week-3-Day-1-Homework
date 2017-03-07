@@ -125,19 +125,19 @@ function math(firstNumber, secondNumber, opperation){
 
 function madlib(blank1, blank2, blank3, blank4) {
 let blank='bananas';
-if (blank1===false){
+if (blank1!==true){
     blank1 = bananas;
 }
 
-if (blank2===false){
+if (blank2!==true){
     blank2 = bananas;
 }
 
-if (blank3===false){
+if (blank3!==true){
       blank3 = bananas;
 }
 
-if (blank4===false){
+if (blank4!==true){
         blank4 = bananas;
 }
 
